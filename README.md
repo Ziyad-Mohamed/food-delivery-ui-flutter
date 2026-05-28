@@ -1,17 +1,40 @@
-# food_app
+# 🍔 Food App UI
 
-A new Flutter project.
+## 📱 Overview
+Food App UI is a modern Flutter-based user interface project that focuses on building a clean, responsive, and visually appealing food ordering experience. The project includes multiple screens such as a Home Page and a Details Page with smooth navigation and structured layouts.
 
-## Getting Started
+This project was created to improve UI development skills using Flutter and to practice building real-world app interfaces.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 🏠 Beautiful Home Page with food categories/items
+- 🍽️ Detailed Food Item Page with full description
+- 🧭 Smooth navigation between screens
+- 🎨 Clean and modern UI design
+- 📱 Responsive layout for different screen sizes
+- 🖼️ Custom assets (images & icons)
+- ⚡ Simple and fast user experience
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- Material Design
+- Custom UI Components
+
+---
+
+## 📂 Project Structure
+
+┣ screens/
+┃ ┣ home_page.dart
+┃ ┣ details_page.dart
+┣ main.dart
+
+assets/
+┣ images/
+┣ screenshots/
