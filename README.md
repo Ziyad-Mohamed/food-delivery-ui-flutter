@@ -14,6 +14,7 @@ Food App UI is a modern Flutter-based user interface project that focuses on bui
 This project was created to improve UI development skills using Flutter and to practice building real-world app interfaces.
 
 
+---
 
 ## ✨ Features
 
@@ -25,6 +26,7 @@ This project was created to improve UI development skills using Flutter and to p
 - 🖼️ Custom assets (images & icons)
 - ⚡ Simple and fast user experience
 
+---
 
 
 ## 🛠️ Built With
