@@ -30,11 +30,11 @@ This project was created to improve UI development skills using Flutter and to p
 
 ## 📂 Project Structure
 
-┣ screens/
-┃ ┣ home_page.dart
-┃ ┣ details_page.dart
-┣ main.dart
+- screens/
+  - home_page.dart
+  - details_page.dart
+  - main.dart
 
 assets/
-┣ images/
-┣ screenshots/
+ -images/
+ -screenshots/
