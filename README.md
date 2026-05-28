@@ -61,9 +61,9 @@ flutter pub get
 flutter run
 ```
 
-## 🎯 Purpose of the Project
+# 🎯 Purpose of the Project
 
-# This project was built as a UI practice project to:
+## This project was built as a UI practice project to:
 
 - Improve Flutter UI development skills
 - Learn screen design and navigation
