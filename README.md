@@ -36,5 +36,5 @@ This project was created to improve UI development skills using Flutter and to p
   - main.dart
 
 assets/
- -images/
- -screenshots/
+  -images/
+  -screenshots/
