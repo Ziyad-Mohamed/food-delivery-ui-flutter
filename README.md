@@ -4,7 +4,7 @@
 
 | Home Page | Details Page |
 |----------|--------------|
-| ![Home](assets/screenshots/home.png) | ![Details](assets/screenshots/details.png) |
+| ![Home](screenshots/Photo1.jpeg) | ![Details](screenshots/Photo3.jpeg) |
 
 ---
 
