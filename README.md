@@ -1,12 +1,9 @@
----
 
 ## 📸 Screenshots
 
 | Home Page | Details Page |
 |----------|--------------|
 | ![Home](screenshots/Photo1.jpeg) | ![Details](screenshots/Photo3.jpeg) |
-
----
 
 
 # 🍔 Food App UI
