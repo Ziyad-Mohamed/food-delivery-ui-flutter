@@ -44,7 +44,7 @@ class Details_State extends State<Details>
 
               child: Column(
                 children: [
-                  const SizedBox(height: 60) ,
+                  const SizedBox(height: 60),
 
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
