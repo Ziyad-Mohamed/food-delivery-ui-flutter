@@ -61,11 +61,16 @@ flutter pub get
 flutter run
 ```
 
-🎯 Purpose of the Project
+## 🎯 Purpose of the Project
 
-This project was built as a UI practice project to:
+# This project was built as a UI practice project to:
 
-Improve Flutter UI development skills
-Learn screen design and navigation
-Build real-world app structure
-Prepare for portfolio and job applications
+- Improve Flutter UI development skills
+- Learn screen design and navigation
+- Build real-world app structure
+- Prepare for portfolio and job applications
+
+## Author
+- Name: Ziyad Bohdor
+- GitHub: [https://github.com/your-username](https://github.com/Ziyad-Mohamed)
+- Email: ziyadbohdor@gmail.com
