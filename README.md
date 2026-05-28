@@ -1,3 +1,14 @@
+---
+
+## 📸 Screenshots
+
+| Home Page | Details Page |
+|----------|--------------|
+| ![Home](assets/screenshots/home.png) | ![Details](assets/screenshots/details.png) |
+
+---
+
+
 # 🍔 Food App UI
 
 ## 📱 Overview
@@ -30,11 +41,31 @@ This project was created to improve UI development skills using Flutter and to p
 
 ## 📂 Project Structure
 
-- screens/
-  - home_page.dart
-  - details_page.dart
-  - main.dart
+lib/
+┣ screens/
+┃ ┣ home_page.dart
+┃ ┣ details_page.dart
+┣ main.dart
 
 assets/
-  -images/
-  -screenshots/
+┣ images/
+┣ screenshots/
+
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/your-username/food_app.git
+cd food_app
+flutter pub get
+flutter run
+```
+
+🎯 Purpose of the Project
+
+This project was built as a UI practice project to:
+
+Improve Flutter UI development skills
+Learn screen design and navigation
+Build real-world app structure
+Prepare for portfolio and job applications
