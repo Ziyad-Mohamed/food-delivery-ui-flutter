@@ -149,7 +149,7 @@ class HomePage_State extends State<HomePage>
                           fillColor: Colors.white ,
                           filled: true ,
                           prefixIcon: Icon(
-                            Icons.search ,
+                            Icons.search,
                             size: 25,
                             ),
                           hintText: "Search" ,
