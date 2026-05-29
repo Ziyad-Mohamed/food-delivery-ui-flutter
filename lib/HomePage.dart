@@ -60,7 +60,6 @@ class HomePage_State extends State<HomePage>
           "Subtitle": "Pizza" ,
           "Price": "350.0" ,
           "Description": "Pepperoni pizza is a delicious Italian-style pizza topped with melted cheese, spicy pepperoni slices, and rich tomato sauce. It's one of the most popular pizzas around the world and loved for its smoky flavor."
-
         },
 
         {
