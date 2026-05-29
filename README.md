@@ -5,6 +5,10 @@
 |----------|--------------|
 | ![Home](screenshots/Photo1.jpeg) | ![Details](screenshots/Photo3.jpeg) |
 
+## 🎥 Demo Video
+
+https://youtube.com/shorts/B5oVby9EA-4?si=oqM5Is-r8mq0bURj
+
 
 # 🍔 Food App UI
 
