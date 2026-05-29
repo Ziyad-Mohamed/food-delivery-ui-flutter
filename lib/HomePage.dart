@@ -47,7 +47,7 @@ class HomePage_State extends State<HomePage>
       List Cards =
       [
         {
-          "Image": "My_Photos/Hambuger Sandwich.png",
+          "Image": "assets/Hambuger Sandwich.png",
           "title": "Hamburger",
           "Subtitle": "Burger" ,
           "Price": "250.0" ,
@@ -55,7 +55,7 @@ class HomePage_State extends State<HomePage>
         },
 
         {
-          "Image": "My_Photos/Pepperoni Pizza.png",
+          "Image": "assets/Pepperoni Pizza.png",
           "title": "Pepperoni Pizza",
           "Subtitle": "Pizza" ,
           "Price": "350.0" ,
@@ -64,7 +64,7 @@ class HomePage_State extends State<HomePage>
         },
 
         {
-          "Image": "My_Photos/Cheese Sandwich.png",
+          "Image": "assets/Cheese Sandwich.png",
           "title": "Cheese Sandwich",
           "Subtitle": "Sandwich" ,
           "Price": "200.0" , 
@@ -94,7 +94,7 @@ class HomePage_State extends State<HomePage>
               
                   ClipOval(
                   child: Image.asset(
-                  "My_Photos/Man Face Photo.jpg" ,
+                  "assets/Man Face Photo.jpg" ,
                   width: 65,
                   height: 65,
                   ),
