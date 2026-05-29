@@ -1,17 +1,74 @@
-# food_app
 
-A new Flutter project.
+## 📸 Screenshots
 
-## Getting Started
+| Home Page | Details Page |
+|----------|--------------|
+| ![Home](screenshots/Photo1.jpeg) | ![Details](screenshots/Photo3.jpeg) |
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# 🍔 Food App UI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📱 Overview
+Food App UI is a modern Flutter-based user interface project that focuses on building a clean, responsive, and visually appealing food ordering experience. The project includes multiple screens such as a Home Page and a Details Page with smooth navigation and structured layouts.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was created to improve UI development skills using Flutter and to practice building real-world app interfaces.
+
+
+---
+
+## ✨ Features
+
+- 🏠 Beautiful Home Page with food categories/items
+- 🍽️ Detailed Food Item Page with full description
+- 🧭 Smooth navigation between screens
+- 🎨 Clean and modern UI design
+- 📱 Responsive layout for different screen sizes
+- 🖼️ Custom assets (images & icons)
+- ⚡ Simple and fast user experience
+
+---
+
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- Material Design
+- Custom UI Components
+
+---
+
+## 📂 Project Structure
+
+lib/
+┣ home_page.dart
+┣ details_page.dart
+┣ main.dart
+
+assets/
+
+screenshots/
+
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/your-username/food_app.git
+cd food_app
+flutter pub get
+flutter run
+```
+
+## 🎯 Purpose of the Project
+
+## This project was built as a UI practice project to:
+
+- Improve Flutter UI development skills
+- Learn screen design and navigation
+- Build real-world app structure
+- Prepare for portfolio and job applications
+
+## Author
+- Name: Ziyad Bohdor
+- GitHub: [https://github.com/your-username](https://github.com/Ziyad-Mohamed)
+- Email: ziyadbohdor@gmail.com
