@@ -78,7 +78,7 @@ class HomePage_State extends State<HomePage>
           children: [
           Padding(
             padding: EdgeInsets.all(20) ,
-            child:  ListView(
+          child: ListView(
           scrollDirection: Axis.vertical,
           children: 
           [
@@ -342,6 +342,12 @@ class FoodCard extends StatelessWidget
   Widget build(BuildContext context) {
     return Padding(
                             padding: EdgeInsets.only(top:10 , right:10),
+                            child: InkWell(
+                            borderRadius: BorderRadius.circular(25),
+                            onTap: () {
+                              Navigator.of(context)
+                              .push(MaterialPageRoute(builder: (context) => Details(data: data)));
+                            },
                             child: Card(
                               color: Colors.white,
                               elevation: 4,
@@ -446,7 +452,7 @@ class FoodCard extends StatelessWidget
                                   ]
 
                                 )
-
+                              )
                               )
                             )
     );
