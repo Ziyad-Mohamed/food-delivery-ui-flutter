@@ -329,16 +329,11 @@ class Details_State extends State<Details>
                       ],
                     )
 
-                  
-
                   ],
               ),
               )
-
-
           ],
         ),
-
 
     );
 
